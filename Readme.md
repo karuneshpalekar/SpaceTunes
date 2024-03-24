@@ -2,6 +2,7 @@
 ![Logo](preview/SpaceTunes.png)
 <h1>Space Tunes</h1>
 <h3>A Music Streaming Platform by Samespace</h3>
+<h4>A video demonstrating the application can be found here : https://drive.google.com/file/d/17-w22Qu49bTw9rnQ3MtZYNJ8h7bMW2ix/view?usp=sharing </h4>
 
 Screenshots from the application : 
 
