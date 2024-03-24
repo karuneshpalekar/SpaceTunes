@@ -49,3 +49,11 @@ Screenshots from the application :
 - Media style notifications
 - Uses a MediaBrowserService to control and expose the current media session
 - Controls the current playback state with actions such as: play/pause, Swip bottom bar to skip next/previous, skip to next/previous and stop
+
+
+## Tested on devices 
+
+- Oneplus 9 pro 
+- Samsung S20 FE
+- Samsung A31 
+- Samsung M31s 
