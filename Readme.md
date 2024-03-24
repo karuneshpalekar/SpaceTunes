@@ -50,6 +50,13 @@ Screenshots from the application :
 - Uses a MediaBrowserService to control and expose the current media session
 - Controls the current playback state with actions such as: play/pause, Swip bottom bar to skip next/previous, skip to next/previous and stop
 
+## Future Scope
+
+- Pagination 
+- Caching (Client Side)  
+- Animations 
+- Code Optimisations
+
 
 ## Tested on devices 
 
