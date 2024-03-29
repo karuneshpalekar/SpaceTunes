@@ -56,6 +56,7 @@ Screenshots from the application :
 - Caching (Client Side)  
 - Animations 
 - Code Optimisations
+- Unit Testing 
 
 
 ## Tested on devices 
@@ -64,3 +65,5 @@ Screenshots from the application :
 - Samsung S20 FE
 - Samsung A31 
 - Samsung M31s 
+
+Disclaimer - The above code consists of system-generated files and does not have source code within. This was caused due to a system-failure at my end, causing all the source files to be deleted. 
